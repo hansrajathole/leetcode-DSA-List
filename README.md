@@ -5,12 +5,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0202-happy-number) |
+## Array
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
