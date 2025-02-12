@@ -5,7 +5,7 @@
 var findErrorNums = function(nums) {
 
 
-let i = 0 
+    let i = 0 
     let n = nums.length
     while(i<n){
         let current = nums[i]-1
@@ -18,13 +18,14 @@ let i = 0
         }
     }
 
+    console.log(nums)
     for(let i = 0 ; i<nums.length ; i++){
         if(nums[i]!=i+1){
            return [nums[i], i+1] 
         }
     }
 
-    return arr
+    return [1,1]
 
 
 
