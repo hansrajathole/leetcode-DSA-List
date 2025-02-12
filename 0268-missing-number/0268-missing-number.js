@@ -9,18 +9,16 @@ var missingNumber = function(arr) {
     let i = 0
     while( i < n) {
         let correctIndex = arr[i]
-        if(arr[i]<arr.length){
-            if (arr[i] != arr[correctIndex]) {
-                let temp = arr[i]
-                arr[i] = arr[correctIndex]
-                arr[correctIndex] = temp
-                correctIndex = arr[i]
-            }else{
-                i++
-            }
+
+        if (arr[i]<arr.length && arr[i] != arr[correctIndex]) {
+            let temp = arr[i]
+            arr[i] = arr[correctIndex]
+            arr[correctIndex] = temp
+            correctIndex = arr[i]
         }else{
-            i++ 
+            i++
         }
+
     }
     console.log(arr)
     let j = 0
