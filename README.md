@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0011-container-with-most-water) |
+| [0041-first-missing-positive](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0042-trapping-rain-water) |
 | [0268-missing-number](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
