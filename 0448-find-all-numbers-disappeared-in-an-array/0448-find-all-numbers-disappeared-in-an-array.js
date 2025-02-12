@@ -16,15 +16,13 @@ var findDisappearedNumbers = function(nums) {
         }
     }
 
-    let count = 1
+
     let arr = []
     console.log(nums)
     for(let i = 0 ; i<nums.length ; i++){
-        if(nums[i]!=count){
-            arr.push(count)
-            
+        if(nums[i]!=i+1){
+            arr.push(i+1)    
         }
-        count++
     }
 
     return arr
