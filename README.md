@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0948-sort-an-array) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
