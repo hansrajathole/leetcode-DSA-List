@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0645-set-mismatch) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2486-most-frequent-even-element](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2486-most-frequent-even-element) |
 ## Math
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2486-most-frequent-even-element](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2486-most-frequent-even-element) |
 ## Binary Search
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0948-sort-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Counting
 |  |
 | ------- |
@@ -112,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0374-guess-number-higher-or-lower) |
+## Simulation
+|  |
+| ------- |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2274-keep-multiplying-found-values-by-two) |
 <!---LeetCode Topics End-->
