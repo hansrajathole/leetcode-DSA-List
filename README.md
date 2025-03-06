@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0367-valid-perfect-square) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
