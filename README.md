@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0042-trapping-rain-water) |
+| [0090-subsets-ii](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0349-intersection-of-two-arrays) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0645-set-mismatch) |
 ## Sorting
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0232-implement-queue-using-stacks) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
