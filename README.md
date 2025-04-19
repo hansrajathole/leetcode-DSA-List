@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0053-maximum-subarray) |
 | [0090-subsets-ii](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0189-rotate-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0053-maximum-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0053-maximum-subarray) |
 | [0948-sort-an-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
