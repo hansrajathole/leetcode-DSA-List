@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2181-smallest-index-with-equal-value](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2181-smallest-index-with-equal-value) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2486-most-frequent-even-element](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2486-most-frequent-even-element) |
