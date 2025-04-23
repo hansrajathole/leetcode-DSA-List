@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2288-count-operations-to-obtain-zero](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2288-count-operations-to-obtain-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2288-count-operations-to-obtain-zero](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2288-count-operations-to-obtain-zero) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## String
 |  |
