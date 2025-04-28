@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0645-set-mismatch) |
+| [0782-jewels-and-stones](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0782-jewels-and-stones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0076-minimum-window-substring) |
 | [0409-longest-palindrome](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0409-longest-palindrome) |
+| [0782-jewels-and-stones](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0782-jewels-and-stones) |
 ## Prefix Sum
 |  |
 | ------- |
