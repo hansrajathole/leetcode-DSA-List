@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2486-most-frequent-even-element](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2486-most-frequent-even-element) |
+| [2502-sort-the-people](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2502-sort-the-people) |
 ## Math
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2486-most-frequent-even-element](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2486-most-frequent-even-element) |
+| [2502-sort-the-people](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2502-sort-the-people) |
 ## Binary Search
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2502-sort-the-people](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2502-sort-the-people) |
 ## Counting
 |  |
 | ------- |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0409-longest-palindrome) |
 | [0782-jewels-and-stones](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0782-jewels-and-stones) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2502-sort-the-people](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2502-sort-the-people) |
 ## Prefix Sum
 |  |
 | ------- |
