@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0084-largest-rectangle-in-histogram) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0090-subsets-ii) |
 ## Number Theory
