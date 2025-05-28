@@ -4,14 +4,14 @@
  * @return {number[]}
  */
 var intersection = function(nums1, nums2) {
-    let set = new Set(nums1)
-    let arr = []
+    const set1 = new Set(nums1);
+    const resultSet = new Set();
 
-    for(let i = 0 ; i < nums2.length ; i++){
-        if(set.has(nums2[i]) && !arr.includes(nums2[i])){
-            arr.push(nums2[i])
+    for (let num of nums2) {
+        if (set1.has(num)) {
+            resultSet.add(num);
         }
-    }   
+    }
 
-    return arr
+    return [...resultSet]
 };
