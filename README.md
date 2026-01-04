@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0035-search-insert-position) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0076-minimum-window-substring) |
@@ -280,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0085-maximal-rectangle) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
