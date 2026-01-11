@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0645-set-mismatch) |
+| [0724-find-pivot-index](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0724-find-pivot-index) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Linked List
 |  |
