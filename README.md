@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2486-most-frequent-even-element](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2486-most-frequent-even-element) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Math
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-most-frequent-even-element](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2486-most-frequent-even-element) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0948-sort-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2288-count-operations-to-obtain-zero) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## String
 |  |
 | ------- |
@@ -219,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -257,4 +262,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0215-kth-largest-element-in-an-array) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
