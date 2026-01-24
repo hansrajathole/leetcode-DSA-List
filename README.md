@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Array
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0948-sort-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Counting
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0409-longest-palindrome) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Divide and Conquer
