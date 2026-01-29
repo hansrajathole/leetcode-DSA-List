@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2486-most-frequent-even-element](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2486-most-frequent-even-element) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0409-longest-palindrome) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -282,4 +284,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Graph Theory
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Shortest Path
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2976-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
