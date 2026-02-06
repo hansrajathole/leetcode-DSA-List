@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/3634-minimum-removals-to-balance-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/3634-minimum-removals-to-balance-array) |
 ## Counting
 |  |
 | ------- |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3634-minimum-removals-to-balance-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/3634-minimum-removals-to-balance-array) |
 ## Matrix
 |  |
 | ------- |
