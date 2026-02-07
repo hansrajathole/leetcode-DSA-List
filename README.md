@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0053-maximum-subarray) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Stack
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0232-implement-queue-using-stacks) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0409-longest-palindrome) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Prefix Sum
 |  |
