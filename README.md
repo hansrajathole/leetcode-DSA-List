@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0409-longest-palindrome) |
+| [1382-balance-a-binary-search-tree](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1382-balance-a-binary-search-tree) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0948-sort-an-array) |
+| [1382-balance-a-binary-search-tree](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1382-balance-a-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -306,4 +308,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1382-balance-a-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1382-balance-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1382-balance-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
