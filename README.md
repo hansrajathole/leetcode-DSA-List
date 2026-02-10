@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2486-most-frequent-even-element](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2486-most-frequent-even-element) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/3634-minimum-removals-to-balance-array) |
+| [3719-longest-balanced-subarray-i](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0948-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/3719-longest-balanced-subarray-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0560-subarray-sum-equals-k) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3719-longest-balanced-subarray-i](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/3719-longest-balanced-subarray-i) |
 ## Linked List
 |  |
 | ------- |
@@ -324,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1382-balance-a-binary-search-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
