@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1920-build-array-from-permutation](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1920-build-array-from-permutation) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1920-build-array-from-permutation) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2288-count-operations-to-obtain-zero) |
