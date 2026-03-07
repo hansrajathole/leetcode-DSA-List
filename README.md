@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0349-intersection-of-two-arrays) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0238-product-of-array-except-self) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0349-intersection-of-two-arrays) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2486-most-frequent-even-element](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2486-most-frequent-even-element) |
 ## Dynamic Programming
@@ -196,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0948-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1382-balance-a-binary-search-tree) |
