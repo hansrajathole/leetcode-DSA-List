@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0387-first-unique-character-in-a-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2486-most-frequent-even-element](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2486-most-frequent-even-element) |
 ## Dynamic Programming
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0409-longest-palindrome) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0387-first-unique-character-in-a-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Backtracking
 |  |
