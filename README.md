@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0645-set-mismatch) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0645-set-mismatch) |
 | [0948-sort-an-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0948-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1200-minimum-absolute-difference) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0561-array-partition) |
 | [1382-balance-a-binary-search-tree](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1382-balance-a-binary-search-tree) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0948-sort-an-array) |
 ## Interactive
 |  |
