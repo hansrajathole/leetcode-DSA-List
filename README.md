@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0075-sort-colors) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
