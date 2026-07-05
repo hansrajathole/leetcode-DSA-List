@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0645-set-mismatch) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0948-sort-an-array) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1200-minimum-absolute-difference](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1200-minimum-absolute-difference) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/hansrajathole/leetcode-DSA-List/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
